@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/GuptaHarry/Leetcode/tree/master/0198-house-robber) |
+| [0583-delete-operation-for-two-strings](https://github.com/GuptaHarry/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/GuptaHarry/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+## String
+|  |
+| ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/GuptaHarry/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 <!---LeetCode Topics End-->
