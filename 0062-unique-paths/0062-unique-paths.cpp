@@ -1,24 +1,16 @@
 class Solution {
 public:
     int uniquePaths(int m, int n) {
-        
-      if(m==1 && n==1)
-      return 1;
-        // 
-        vector<vector<int>>dp(m,vector<int>(n,0));
-        // last row intialise except last cell
-        for(int i=n-2;i>=0;i--){
-            dp[m-1][i]=1;
+        if(n==1 && m==1)
+        return 1;
+        /// optimsied approahc 
+        // for every cell need down element and right element 
+        vector<int>dp(n,1);
+        for(int i=m-2;i>=0;i--)
+        for(int j=n-2;j>=0;j--){
+            dp[j]=dp[j]+dp[j+1];
         }
-        // lat column
-        for(int j=m-2;j>=0;j--)
-        dp[j][n-1]=1;
 
-        for(int i=m-2;i>=0;i--){
-            for(int j=n-2;j>=0;j--){
-                dp[i][j] = dp[i+1][j]+dp[i][j+1];
-            }
-        }
-        return dp[0][0];
+       return dp[0];
     }
 };
