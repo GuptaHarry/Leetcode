@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/GuptaHarry/Leetcode/tree/master/0062-unique-paths) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/GuptaHarry/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Enumeration
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/GuptaHarry/Leetcode/tree/master/0062-unique-paths) |
 | [0198-house-robber](https://github.com/GuptaHarry/Leetcode/tree/master/0198-house-robber) |
 | [0583-delete-operation-for-two-strings](https://github.com/GuptaHarry/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/GuptaHarry/Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/GuptaHarry/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1250-longest-common-subsequence](https://github.com/GuptaHarry/Leetcode/tree/master/1250-longest-common-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/GuptaHarry/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
