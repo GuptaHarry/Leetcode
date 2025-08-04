@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/GuptaHarry/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/GuptaHarry/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/GuptaHarry/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [3790-fruits-into-baskets-ii](https://github.com/GuptaHarry/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/GuptaHarry/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/GuptaHarry/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [3790-fruits-into-baskets-ii](https://github.com/GuptaHarry/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -80,4 +82,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/GuptaHarry/Leetcode/tree/master/0064-minimum-path-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/GuptaHarry/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/GuptaHarry/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/GuptaHarry/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
