@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/GuptaHarry/Leetcode/tree/master/0062-unique-paths) |
 | [0326-power-of-three](https://github.com/GuptaHarry/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/GuptaHarry/Leetcode/tree/master/0342-power-of-four) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/GuptaHarry/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Enumeration
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/GuptaHarry/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/GuptaHarry/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/GuptaHarry/Leetcode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,4 +123,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/GuptaHarry/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/GuptaHarry/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
