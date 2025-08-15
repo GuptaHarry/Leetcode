@@ -11,36 +11,23 @@
  */
 class Solution {
 public:
-void make(TreeNode * root){
-    if(root== NULL)
-    return ;
 
-    TreeNode * temp = root->right;
-    root->right = root->left;
-    root->left = temp;
+ bool check(TreeNode * p , TreeNode * q){
 
-    make(root->left);
-    make(root->right);
-}
-
-bool check(TreeNode * p, TreeNode *q){
-
-    if(p==NULL && q==NULL)
+    // check for NULL
+    if(p== NULL && q==NULL)
     return 1;
 
-    if( (p &&q==NULL) || (p==NULL && q))
+    if( (p && q==NULL) || (p==NULL &&q))
     return 0;
 
-    if(p->val!= q->val)
+    /// for values 
+    if( p->val !=q->val)
     return 0;
 
-    return ( check(p->left,q->left) && check(p->right,q->right));
-}
+    return ( check(p->left,q->right) && check(p->right,q->left));
+ }
     bool isSymmetric(TreeNode* root) {
-        // make the right one mirror and then check if left and right are  equal
-        make(root->right);
-
-        // check for equal left and right parts 
-      return   check(root->left,root->right);
-        }
+       return  check(root->left,root->right);
+    }
 };
