@@ -9,17 +9,29 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class Solution {
+ class Solution {
 public:
-int  find(TreeNode * root){
-    if(root==NULL)
-    return 0;
+    int getHeight(TreeNode* node) {
+        int h = 0;
+        while (node) {
+            h++;
+            node = node->left;
+        }
+        return h;
+    }
 
-    return 1+find(root->left)+find(root->right);
-}
     int countNodes(TreeNode* root) {
-        
-        // queue<TreeNode * >q;
-       return find(root);
+        if (!root) return 0;
+
+        int leftHeight = getHeight(root->left);
+        int rightHeight = getHeight(root->right);
+
+        if (leftHeight == rightHeight) {
+            // Left is perfect
+            return (1 << leftHeight) + countNodes(root->right);
+        } else {
+            // Right is perfect
+            return (1 << rightHeight) + countNodes(root->left);
+        }
     }
 };
