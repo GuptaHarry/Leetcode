@@ -11,23 +11,36 @@
  */
 class Solution {
 public:
-
- bool check(TreeNode * p , TreeNode * q){
-
-    // check for NULL
-    if(p== NULL && q==NULL)
-    return 1;
-
-    if( (p && q==NULL) || (p==NULL &&q))
-    return 0;
-
-    /// for values 
-    if( p->val !=q->val)
-    return 0;
-
-    return ( check(p->left,q->right) && check(p->right,q->left));
- }
     bool isSymmetric(TreeNode* root) {
-       return  check(root->left,root->right);
+        
+        // symmetric approach 
+        queue<TreeNode*>q;
+        q.push(root->left);
+        q.push(root->right);
+
+        while(!q.empty()){
+            TreeNode* leftCh = q.front();
+            q.pop();
+            TreeNode* RightCh = q.front();
+            q.pop();
+
+            // check condtion 
+            if( leftCh == NULL && RightCh ==NULL)
+            continue;
+            // do nothhing
+            if( (leftCh && RightCh==NULL ) || (leftCh==NULL && RightCh))
+            return 0;
+
+            if(leftCh->val !=RightCh->val)
+            return 0;
+
+            q.push(leftCh->left);
+            q.push(RightCh->right);
+
+            q.push(leftCh->right);
+            q.push(RightCh->left);
+            
+        }
+        return 1;
     }
 };
