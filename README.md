@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GuptaHarry/Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/GuptaHarry/Leetcode/tree/master/0015-3sum) |
 | [0064-minimum-path-sum](https://github.com/GuptaHarry/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/GuptaHarry/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/GuptaHarry/Leetcode/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/GuptaHarry/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/GuptaHarry/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Recursion
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -164,4 +167,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
