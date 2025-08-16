@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/GuptaHarry/Leetcode/tree/master/0342-power-of-four) |
 | [0830-largest-triangle-area](https://github.com/GuptaHarry/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/GuptaHarry/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1448-maximum-69-number](https://github.com/GuptaHarry/Leetcode/tree/master/1448-maximum-69-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/GuptaHarry/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Enumeration
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/GuptaHarry/Leetcode/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/GuptaHarry/Leetcode/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/GuptaHarry/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1448-maximum-69-number](https://github.com/GuptaHarry/Leetcode/tree/master/1448-maximum-69-number) |
 | [1829-maximum-units-on-a-truck](https://github.com/GuptaHarry/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 ## Divide and Conquer
 |  |
