@@ -215,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/GuptaHarry/Leetcode/tree/master/0257-binary-tree-paths) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/GuptaHarry/Leetcode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
