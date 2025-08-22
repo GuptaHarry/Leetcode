@@ -225,4 +225,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/GuptaHarry/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/GuptaHarry/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1664-find-users-with-valid-e-mails](https://github.com/GuptaHarry/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
+| [1801-average-time-of-process-per-machine](https://github.com/GuptaHarry/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
