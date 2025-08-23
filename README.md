@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/GuptaHarry/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1664-find-users-with-valid-e-mails](https://github.com/GuptaHarry/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1801-average-time-of-process-per-machine](https://github.com/GuptaHarry/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
+| [1811-fix-names-in-a-table](https://github.com/GuptaHarry/Leetcode/tree/master/1811-fix-names-in-a-table) |
 ## Linked List
 |  |
 | ------- |
