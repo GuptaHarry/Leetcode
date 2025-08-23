@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/GuptaHarry/Leetcode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/GuptaHarry/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GuptaHarry/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/GuptaHarry/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/GuptaHarry/Leetcode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/GuptaHarry/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GuptaHarry/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/GuptaHarry/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/GuptaHarry/Leetcode/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/GuptaHarry/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GuptaHarry/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/GuptaHarry/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/GuptaHarry/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GuptaHarry/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Backtracking
 |  |
@@ -226,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/GuptaHarry/Leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1664-find-users-with-valid-e-mails](https://github.com/GuptaHarry/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1801-average-time-of-process-per-machine](https://github.com/GuptaHarry/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/GuptaHarry/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
