@@ -11,62 +11,64 @@
  */
 class Solution {
 public:
-    int amountOfTime(TreeNode* root, int target) {
-        
+ int burn(TreeNode * root,int start,int&timer){
+    if(!root)
+    return 0;
 
-        unordered_map<TreeNode * , TreeNode * >m;
-        m[root]=NULL;
-        queue<TreeNode* >q;
-        q.push(root);
-        TreeNode * temp;
-        while(!q.empty()){
-            // no dispersion by size is required 
-            TreeNode * curr= q.front();
-            q.pop();
-            
-            if(curr->val==target)
-            temp=curr;
-            
-            if(curr->left){
-                m[curr->left]=curr;
-                q.push(curr->left);
-            }
-            if(curr->right){
-                m[curr->right]=curr;
-                q.push(curr->right);
-            }
-            
-        }
+     if(root->val==start)
+     return -1;
+     
+     int left=burn(root->left,start,timer);
+     int right = burn(root->right,start,timer);
+
+      if(left<0){
+        // left se brun aya
+        timer = max(timer , abs(left)+right);
+        return left-1;
+      }
+
+      if(right<0){
+        timer= max(timer,abs(right)+left);
+        return right-1;
+      }
+
+      // dono side se kuch mhi aya return maximum height
+      return 1+ max(left,right);
+     
+      }
+      void find(TreeNode * root, int start , TreeNode * &burnNode){
+    
+         if(!root)
+         return ;
+
+         if(root->val==start){
+            burnNode=root;
+            return ;
+         }
+         find(root->left,start,burnNode);
+         find(root->right,start,burnNode);
+      }
+      int  Height(TreeNode * root){
+        if(!root)
+        return 0;
+
+        return 1+max(Height(root->left),Height(root->right));
+      }
+      
+    int amountOfTime(TreeNode* root, int start) {
         
-        // bool array 
-        unordered_map<TreeNode* ,bool>m2;
-        m2[temp]=true;
-        q.push(temp);
         
-        int ans=0;
-        while(!q.empty()){
-          int s=q.size();
-          while(s--){
-              TreeNode * curr=q.front();
-              q.pop();
-              m2[curr]=true;
-              if(curr->left && !m2[curr->left]){
-                  q.push(curr->left);
-              }
-              if(curr->right && !m2[curr->right]){
-                  q.push(curr->right);
-              }
-              // also push their parent node of the targe 
-              if(m[curr]!=NULL && !m2[m[curr]]){
-                  q.push(m[curr]);
-              }
-              
-          }
-          ans++;
-        
-        }
-        
-        return ans-1;  // bcz after the last level no nned ot burn that 
-        
+        // without using the map 
+
+        // at each node check if burn is coming or not else return max height
+        int timer=0;
+        burn(root,start,timer);
+
+        // find the hirght below that
+        TreeNode * burnNode=NULL;
+        find(root,start,burnNode);
+        int high = Height(burnNode)-1;
+        return max(high,timer);
+
     }
 };
