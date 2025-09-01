@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/GuptaHarry/Leetcode/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/GuptaHarry/Leetcode/tree/master/1837-daily-leads-and-partners) |
 | [1942-primary-department-for-each-employee](https://github.com/GuptaHarry/Leetcode/tree/master/1942-primary-department-for-each-employee) |
+| [1948-rearrange-products-table](https://github.com/GuptaHarry/Leetcode/tree/master/1948-rearrange-products-table) |
 ## Linked List
 |  |
 | ------- |
