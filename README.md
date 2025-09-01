@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/GuptaHarry/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/GuptaHarry/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/GuptaHarry/Leetcode/tree/master/0342-power-of-four) |
 ## Geometry
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/GuptaHarry/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/GuptaHarry/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
