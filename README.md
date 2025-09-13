@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/GuptaHarry/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/GuptaHarry/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GuptaHarry/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/GuptaHarry/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/GuptaHarry/Leetcode/tree/master/0979-di-string-match) |
 | [1250-longest-common-subsequence](https://github.com/GuptaHarry/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [3462-vowels-game-in-a-string](https://github.com/GuptaHarry/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/GuptaHarry/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Combinatorics
 |  |
 | ------- |
@@ -294,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/GuptaHarry/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/GuptaHarry/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->
