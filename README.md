@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/GuptaHarry/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1962-single-threaded-cpu](https://github.com/GuptaHarry/Leetcode/tree/master/1962-single-threaded-cpu) |
 ## Greedy
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/GuptaHarry/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/GuptaHarry/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GuptaHarry/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -246,12 +248,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/GuptaHarry/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/GuptaHarry/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GuptaHarry/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/GuptaHarry/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Stack
 |  |
 | ------- |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/GuptaHarry/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Brainteaser
 |  |
 | ------- |
@@ -308,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/GuptaHarry/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/GuptaHarry/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
