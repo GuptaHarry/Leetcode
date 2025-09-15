@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/GuptaHarry/Leetcode/tree/master/0979-di-string-match) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/GuptaHarry/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/GuptaHarry/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GuptaHarry/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1829-maximum-units-on-a-truck](https://github.com/GuptaHarry/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1962-single-threaded-cpu](https://github.com/GuptaHarry/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [3790-fruits-into-baskets-ii](https://github.com/GuptaHarry/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/GuptaHarry/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/GuptaHarry/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/GuptaHarry/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GuptaHarry/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/GuptaHarry/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/GuptaHarry/Leetcode/tree/master/0015-3sum) |
 | [1018-largest-perimeter-triangle](https://github.com/GuptaHarry/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GuptaHarry/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1829-maximum-units-on-a-truck](https://github.com/GuptaHarry/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1962-single-threaded-cpu](https://github.com/GuptaHarry/Leetcode/tree/master/1962-single-threaded-cpu) |
 ## Dynamic Programming
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/GuptaHarry/Leetcode/tree/master/0064-minimum-path-sum) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GuptaHarry/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Segment Tree
 |  |
 | ------- |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/GuptaHarry/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GuptaHarry/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1962-single-threaded-cpu](https://github.com/GuptaHarry/Leetcode/tree/master/1962-single-threaded-cpu) |
 ## Greedy
 |  |
