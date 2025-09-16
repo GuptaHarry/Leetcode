@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/GuptaHarry/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/GuptaHarry/Leetcode/tree/master/1448-maximum-69-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/GuptaHarry/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/GuptaHarry/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3462-vowels-game-in-a-string](https://github.com/GuptaHarry/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/GuptaHarry/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Enumeration
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GuptaHarry/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1829-maximum-units-on-a-truck](https://github.com/GuptaHarry/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1962-single-threaded-cpu](https://github.com/GuptaHarry/Leetcode/tree/master/1962-single-threaded-cpu) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/GuptaHarry/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/GuptaHarry/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
