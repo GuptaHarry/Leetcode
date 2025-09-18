@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/GuptaHarry/Leetcode/tree/master/0062-unique-paths) |
 | [0326-power-of-three](https://github.com/GuptaHarry/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/GuptaHarry/Leetcode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/GuptaHarry/Leetcode/tree/master/0390-elimination-game) |
 | [0830-largest-triangle-area](https://github.com/GuptaHarry/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/GuptaHarry/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/GuptaHarry/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/GuptaHarry/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/GuptaHarry/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/GuptaHarry/Leetcode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/GuptaHarry/Leetcode/tree/master/0390-elimination-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/GuptaHarry/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Geometry
 |  |
