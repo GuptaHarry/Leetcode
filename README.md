@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/GuptaHarry/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/GuptaHarry/Leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/GuptaHarry/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/GuptaHarry/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/GuptaHarry/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/GuptaHarry/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GuptaHarry/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -67,12 +68,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/GuptaHarry/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0165-compare-version-numbers](https://github.com/GuptaHarry/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/GuptaHarry/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/GuptaHarry/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0979-di-string-match](https://github.com/GuptaHarry/Leetcode/tree/master/0979-di-string-match) |
 ## Binary Search
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/GuptaHarry/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/GuptaHarry/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/GuptaHarry/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/GuptaHarry/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GuptaHarry/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GuptaHarry/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GuptaHarry/Leetcode/tree/master/0015-3sum) |
+| [0611-valid-triangle-number](https://github.com/GuptaHarry/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/GuptaHarry/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GuptaHarry/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1829-maximum-units-on-a-truck](https://github.com/GuptaHarry/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/GuptaHarry/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0890-lemonade-change](https://github.com/GuptaHarry/Leetcode/tree/master/0890-lemonade-change) |
 | [0979-di-string-match](https://github.com/GuptaHarry/Leetcode/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/GuptaHarry/Leetcode/tree/master/1018-largest-perimeter-triangle) |
