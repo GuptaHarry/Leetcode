@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/GuptaHarry/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/GuptaHarry/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/GuptaHarry/Leetcode/tree/master/0198-house-robber) |
+| [0219-contains-duplicate-ii](https://github.com/GuptaHarry/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/GuptaHarry/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/GuptaHarry/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/GuptaHarry/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/GuptaHarry/Leetcode/tree/master/0001-two-sum) |
 | [0166-fraction-to-recurring-decimal](https://github.com/GuptaHarry/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0219-contains-duplicate-ii](https://github.com/GuptaHarry/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/GuptaHarry/Leetcode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GuptaHarry/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/GuptaHarry/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/GuptaHarry/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GuptaHarry/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/GuptaHarry/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/GuptaHarry/Leetcode/tree/master/0643-maximum-average-subarray-i) |
