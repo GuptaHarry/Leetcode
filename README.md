@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/GuptaHarry/Leetcode/tree/master/0979-di-string-match) |
 | [1250-longest-common-subsequence](https://github.com/GuptaHarry/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/GuptaHarry/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1542-consecutive-characters](https://github.com/GuptaHarry/Leetcode/tree/master/1542-consecutive-characters) |
 | [3462-vowels-game-in-a-string](https://github.com/GuptaHarry/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/GuptaHarry/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Combinatorics
