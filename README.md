@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/GuptaHarry/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/GuptaHarry/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/GuptaHarry/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/GuptaHarry/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GuptaHarry/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1829-maximum-units-on-a-truck](https://github.com/GuptaHarry/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1962-single-threaded-cpu](https://github.com/GuptaHarry/Leetcode/tree/master/1962-single-threaded-cpu) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/GuptaHarry/Leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/GuptaHarry/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GuptaHarry/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/GuptaHarry/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-longest-common-subsequence](https://github.com/GuptaHarry/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Prefix Sum
 |  |
