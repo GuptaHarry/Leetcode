@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/GuptaHarry/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1962-single-threaded-cpu](https://github.com/GuptaHarry/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2023-design-movie-rental-system](https://github.com/GuptaHarry/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/GuptaHarry/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/GuptaHarry/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GuptaHarry/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/GuptaHarry/Leetcode/tree/master/2751-sliding-subarray-beauty) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/GuptaHarry/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GuptaHarry/Leetcode/tree/master/0064-minimum-path-sum) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GuptaHarry/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/GuptaHarry/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Segment Tree
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/GuptaHarry/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/GuptaHarry/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/GuptaHarry/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/GuptaHarry/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
