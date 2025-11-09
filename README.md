@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/GuptaHarry/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/GuptaHarry/Leetcode/tree/master/1448-maximum-69-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/GuptaHarry/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2288-count-operations-to-obtain-zero](https://github.com/GuptaHarry/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/GuptaHarry/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3462-vowels-game-in-a-string](https://github.com/GuptaHarry/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/GuptaHarry/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/GuptaHarry/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GuptaHarry/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/GuptaHarry/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/GuptaHarry/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
