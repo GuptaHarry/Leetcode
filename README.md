@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/GuptaHarry/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/GuptaHarry/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/GuptaHarry/Leetcode/tree/master/0890-lemonade-change) |
+| [0924-fair-candy-swap](https://github.com/GuptaHarry/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/GuptaHarry/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0979-di-string-match](https://github.com/GuptaHarry/Leetcode/tree/master/0979-di-string-match) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/GuptaHarry/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/GuptaHarry/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GuptaHarry/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/GuptaHarry/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0924-fair-candy-swap](https://github.com/GuptaHarry/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/GuptaHarry/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GuptaHarry/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/GuptaHarry/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/GuptaHarry/Leetcode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/GuptaHarry/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/GuptaHarry/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0924-fair-candy-swap](https://github.com/GuptaHarry/Leetcode/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/GuptaHarry/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/GuptaHarry/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/GuptaHarry/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/GuptaHarry/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/GuptaHarry/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/GuptaHarry/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0924-fair-candy-swap](https://github.com/GuptaHarry/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/GuptaHarry/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GuptaHarry/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1829-maximum-units-on-a-truck](https://github.com/GuptaHarry/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
