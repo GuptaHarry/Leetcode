@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/GuptaHarry/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/GuptaHarry/Leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/GuptaHarry/Leetcode/tree/master/0390-elimination-game) |
+| [0441-arranging-coins](https://github.com/GuptaHarry/Leetcode/tree/master/0441-arranging-coins) |
 | [0830-largest-triangle-area](https://github.com/GuptaHarry/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/GuptaHarry/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/GuptaHarry/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/GuptaHarry/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/GuptaHarry/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/GuptaHarry/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/GuptaHarry/Leetcode/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/GuptaHarry/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/GuptaHarry/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GuptaHarry/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
