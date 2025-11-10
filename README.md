@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/GuptaHarry/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1962-single-threaded-cpu](https://github.com/GuptaHarry/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2023-design-movie-rental-system](https://github.com/GuptaHarry/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/GuptaHarry/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GuptaHarry/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/GuptaHarry/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GuptaHarry/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/GuptaHarry/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1046-max-consecutive-ones-iii](https://github.com/GuptaHarry/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GuptaHarry/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/GuptaHarry/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/GuptaHarry/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3790-fruits-into-baskets-ii](https://github.com/GuptaHarry/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GuptaHarry/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1829-maximum-units-on-a-truck](https://github.com/GuptaHarry/Leetcode/tree/master/1829-maximum-units-on-a-truck) |
 | [1962-single-threaded-cpu](https://github.com/GuptaHarry/Leetcode/tree/master/1962-single-threaded-cpu) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/GuptaHarry/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
