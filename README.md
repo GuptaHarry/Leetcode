@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/GuptaHarry/Leetcode/tree/master/0062-unique-paths) |
 | [0166-fraction-to-recurring-decimal](https://github.com/GuptaHarry/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0268-missing-number](https://github.com/GuptaHarry/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/GuptaHarry/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/GuptaHarry/Leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/GuptaHarry/Leetcode/tree/master/0390-elimination-game) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/GuptaHarry/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/GuptaHarry/Leetcode/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/GuptaHarry/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/GuptaHarry/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/GuptaHarry/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/GuptaHarry/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/GuptaHarry/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/GuptaHarry/Leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/GuptaHarry/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/GuptaHarry/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/GuptaHarry/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/GuptaHarry/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/GuptaHarry/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/GuptaHarry/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/GuptaHarry/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/GuptaHarry/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/GuptaHarry/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/GuptaHarry/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/GuptaHarry/Leetcode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/GuptaHarry/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/GuptaHarry/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0219-contains-duplicate-ii](https://github.com/GuptaHarry/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/GuptaHarry/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/GuptaHarry/Leetcode/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/GuptaHarry/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/GuptaHarry/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/GuptaHarry/Leetcode/tree/master/0567-permutation-in-string) |
@@ -152,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/GuptaHarry/Leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/GuptaHarry/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/GuptaHarry/Leetcode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/GuptaHarry/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/GuptaHarry/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/GuptaHarry/Leetcode/tree/master/1018-largest-perimeter-triangle) |
