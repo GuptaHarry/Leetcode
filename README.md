@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GuptaHarry/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/GuptaHarry/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/GuptaHarry/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2634-minimum-common-value](https://github.com/GuptaHarry/Leetcode/tree/master/2634-minimum-common-value) |
 | [2751-sliding-subarray-beauty](https://github.com/GuptaHarry/Leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/GuptaHarry/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/GuptaHarry/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/GuptaHarry/Leetcode/tree/master/0979-di-string-match) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GuptaHarry/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/GuptaHarry/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2634-minimum-common-value](https://github.com/GuptaHarry/Leetcode/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/GuptaHarry/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/GuptaHarry/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/GuptaHarry/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2634-minimum-common-value](https://github.com/GuptaHarry/Leetcode/tree/master/2634-minimum-common-value) |
 | [3790-fruits-into-baskets-ii](https://github.com/GuptaHarry/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
 |  |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/GuptaHarry/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/GuptaHarry/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GuptaHarry/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2634-minimum-common-value](https://github.com/GuptaHarry/Leetcode/tree/master/2634-minimum-common-value) |
 | [2751-sliding-subarray-beauty](https://github.com/GuptaHarry/Leetcode/tree/master/2751-sliding-subarray-beauty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/GuptaHarry/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/GuptaHarry/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
