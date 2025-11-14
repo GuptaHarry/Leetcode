@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2361-calculate-digit-sum-of-a-string](https://github.com/GuptaHarry/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/GuptaHarry/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3462-vowels-game-in-a-string](https://github.com/GuptaHarry/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/GuptaHarry/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/GuptaHarry/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Combinatorics
 |  |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-append-k-integers-with-minimal-sum](https://github.com/GuptaHarry/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/GuptaHarry/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/GuptaHarry/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/GuptaHarry/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/GuptaHarry/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Divide and Conquer
 |  |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/GuptaHarry/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/GuptaHarry/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/GuptaHarry/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/GuptaHarry/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/GuptaHarry/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Monotonic Stack
 |  |
