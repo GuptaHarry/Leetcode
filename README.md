@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/GuptaHarry/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/GuptaHarry/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/GuptaHarry/Leetcode/tree/master/1448-maximum-69-number) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/GuptaHarry/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/GuptaHarry/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/GuptaHarry/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/GuptaHarry/Leetcode/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/GuptaHarry/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/GuptaHarry/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1542-consecutive-characters](https://github.com/GuptaHarry/Leetcode/tree/master/1542-consecutive-characters) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/GuptaHarry/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GuptaHarry/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/GuptaHarry/Leetcode/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/GuptaHarry/Leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
