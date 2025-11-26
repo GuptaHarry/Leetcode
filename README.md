@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GuptaHarry/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/GuptaHarry/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/GuptaHarry/Leetcode/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/GuptaHarry/Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GuptaHarry/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/GuptaHarry/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/GuptaHarry/Leetcode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/GuptaHarry/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-longest-common-subsequence](https://github.com/GuptaHarry/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/GuptaHarry/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/GuptaHarry/Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/GuptaHarry/Leetcode/tree/master/0064-minimum-path-sum) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/GuptaHarry/Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GuptaHarry/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2521-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/GuptaHarry/Leetcode/tree/master/2521-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Segment Tree
 |  |
 | ------- |
