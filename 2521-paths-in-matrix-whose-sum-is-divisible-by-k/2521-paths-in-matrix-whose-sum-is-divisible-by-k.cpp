@@ -1,35 +1,35 @@
 class Solution {
 public:
-    int m, n, k;
-    long long mod = 1e9 + 7;
-    vector<vector<vector<int>>> dp;
+    int numberOfPaths(vector<vector<int>>& grid, int k) {
+        int m = grid.size(), n = grid[0].size();
+        long long mod = 1e9 + 7;
 
-    long long solve(int i, int j, int rem, vector<vector<int>>& grid) {
-        rem = (rem + grid[i][j]) % k;
+        vector<vector<vector<long long>>> dp(m, vector<vector<long long>>(n, vector<long long>(k, 0)));
 
-        // reached end
-        if (i == m - 1 && j == n - 1)
-            return rem == 0;
+        // BASE CASE
+        dp[0][0][grid[0][0] % k] = 1;
 
-        if (dp[i][j][rem] != -1)
-            return dp[i][j][rem];
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
+                for(int r = 0; r < k; r++){
 
-        long long ans = 0;
+                    if(dp[i][j][r] == 0) continue;
 
-        if (j + 1 < n)
-            ans = (ans + solve(i, j + 1, rem, grid)) % mod;
+                    // move down
+                    if(i + 1 < m){
+                        int new_r = (r + grid[i + 1][j]) % k;
+                        dp[i + 1][j][new_r] = (dp[i + 1][j][new_r] + dp[i][j][r]) % mod;
+                    }
 
-        if (i + 1 < m)
-            ans = (ans + solve(i + 1, j, rem, grid)) % mod;
+                    // move right
+                    if(j + 1 < n){
+                        int new_r = (r + grid[i][j + 1]) % k;
+                        dp[i][j + 1][new_r] = (dp[i][j + 1][new_r] + dp[i][j][r]) % mod;
+                    }
+                }
+            }
+        }
 
-        return dp[i][j][rem] = ans;
-    }
-
-    int numberOfPaths(vector<vector<int>>& grid, int K) {
-        m = grid.size();
-        n = grid[0].size();
-        k = K;
-        dp.assign(m, vector<vector<int>>(n, vector<int>(k, -1)));
-        return solve(0, 0, 0, grid);
+        return dp[m - 1][n - 1][0];
     }
 };
